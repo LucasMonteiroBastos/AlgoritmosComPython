@@ -3,6 +3,7 @@ print('[2] para doar R$ 25.00')
 print('[3] para doar R$ 50.00')
 print('[4] para doar outros valores')
 print('[5] para cancelar')
+
 cond = True
 while cond:
     opcao = int(input())
