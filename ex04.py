@@ -20,4 +20,4 @@ elif imc >= 35 and imc <= 40:
     print('{}... Seu IMC é {:.2f}, e voce esta com Obesidade Severa.'.format(nome,imc))
 elif imc >= 40:
     print('{}... Seu IMC é {:.2f}, e voce esta com Obesidade Mórbida.'.format(nome,imc))
-print('Obrigado.')
+print('Obrigado por participar.')
