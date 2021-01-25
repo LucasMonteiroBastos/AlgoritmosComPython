@@ -8,4 +8,4 @@ falta = 18 - idade
 if idade >= 18:
     print('voce tem {}, e esta APTO a tirar sua CNH.'.format(idade))
 elif idade < 18:
-    print('voce tem {},ainda é dimenor, faltam {} anos para tirar sua CNH.'.format(idade,falta))
+    print('voce tem {},ainda é dimenor, faltam {} anos para você tirar sua CNH.'.format(idade,falta))
