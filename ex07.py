@@ -16,8 +16,8 @@ while cond:
         doacao = 50.00
     elif opcao == 4:
         print('Informe o valor: ')
-        a = float(input())
-        doacao = a
+        doacao = float(input())
+
     elif opcao == 5:
         print('Operação cancelada.')
     elif opcao == 6:
