@@ -10,14 +10,15 @@ while(cont < a):
     b = int(input())
     soma += b
 
-    # se b for maior que (maior) (maior = recebe b)
+    # se b for maior que (a variavel maior) então (a variavel maior = recebe b)
     if b > maior:
         maior = b
 
-    #
+    # menor é igual a zero?
+    # se for menor = (b)
     if menor == 0:
         menor = b
-
+    # se b for menor que (a variavel menor) então (a variavel menor = recebe b)
     if b < menor:
         menor = b
 
