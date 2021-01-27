@@ -11,4 +11,5 @@ elif inicio > fim:
     while(inicio >= fim):
         saida +=f' {inicio}...'
         inicio -= 1
+
 print(saida)
