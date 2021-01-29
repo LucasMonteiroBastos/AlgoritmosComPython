@@ -3,4 +3,4 @@ def parOuImoar(x):
         return print('PAR')
     else:
         return print('IMPAR')
-print(parOuImoar(50))
+print(parOuImoar(50))    
